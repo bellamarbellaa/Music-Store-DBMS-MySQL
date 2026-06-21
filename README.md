@@ -25,7 +25,6 @@ Music Store Database Management System built with MySQL featuring database desig
 
 4. Advanced SQL Concepts
 - Stored Procedures
-- Indexing for efficient queries
 - Subqueries in WHERE, SELECT, and FROM clauses
 - CASE WHEN expressions
 - LEFT JOIN and RIGHT JOIN
